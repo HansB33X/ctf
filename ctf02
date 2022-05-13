@@ -1,0 +1,8 @@
+http://gba-corona.com/
+
+Type: Web Exploit
+Flag type: flag{example}
+Goal: flag from username
+Clue: inurl:.php?id=
+
+CTF by HansB33X
